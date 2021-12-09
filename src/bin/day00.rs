@@ -1,11 +1,3 @@
-/* fn solve_part1(&str input:<str>) {
-  let iter = input.lines();
-
-  let depth = iter.next();
-
-  let depth = Some(depth);
-} */
-
 fn solve1(input: &str) -> i32 {
   1
 }

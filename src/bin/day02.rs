@@ -1,13 +1,4 @@
-use std::collections::HashMap;
-
 fn solve1(input: &str) -> i32 {
-  /* input
-    .lines()
-    .map(|f| f.parse().unwrap())
-    .fold((0, i32::MAX), |(sum, prev), n| {
-      (if n > prev { sum + 1 } else { sum }, n)
-    })
-    .0 */
 
     let input = input.lines();
 
