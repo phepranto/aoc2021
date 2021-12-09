@@ -7,6 +7,10 @@ fn solve2(input: &str) -> i32 {
   2
 }
 
+fn parse(input: &str) {
+
+}
+
 fn main() {
 
   let input = include_str!("day01.in");
